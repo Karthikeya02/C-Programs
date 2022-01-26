@@ -1,0 +1,79 @@
+let's take a look at all the topics in c programming
+	1. intro
+		> data types
+		> main function
+		> operators
+	
+	2. decision control
+		> if-else
+			> multiple statements
+			>nested if-else
+		> else-if
+		> ! operator
+		> conditional operator
+	
+	3. loops
+		> for loop
+			> nested for loops
+			> multiple initializations
+		> while loop
+			> tips and traps
+		> break statement
+		>  do while loop
+	
+	4. case control 
+		> switch statement
+			> switch vs if-else
+		> goto keyword
+	
+	5. functions
+		> types
+		> passing values b/w functions
+		> order of passing arguments
+		> lib functions
+		> return type
+	
+	6. pointers
+		> call by value & call by reference
+		> pointer notation
+		> function calls
+	
+	7. recursions
+		> recursions
+	
+	8. preprocessor
+		> intro
+		> macros
+		> file inclusion
+		> conditional compilation
+	
+	9. arrays
+		> intro
+		> 1d array
+			> intialization
+			> element insertion
+			> passing elements to a function
+			> pointers X array
+		> 2d array
+			> initialization
+			> pointers X 2d array
+			> passing 2d array to a function
+		> 3d array???
+	
+	10.  strings
+		> strings
+		> std lib functions
+		> multiple strings
+		> array of pointers to strings
+	
+	11. structures
+		> array of structures
+		> intricacies
+			> storage
+			> copying
+			> nested structures
+			> passing & packing elements
+	
+	12. input/output
+	
+	13.  files
